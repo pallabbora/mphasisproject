@@ -52,5 +52,11 @@ public class CalculateTest {
 		System.out.println("Multiply Test");
 		assertNotEquals(500,calc.multiply(10,50,10));
 	}
+        @Test
+         public void printMyName()
+         {
+           System.out.println("My Name");
+         }
+       
 
 }
