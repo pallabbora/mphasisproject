@@ -68,5 +68,11 @@ public class CalculateTest {
          {
            System.out.println("Tahir Sid have done a edit");
          }
+
+        @Test
+         public void printPallab()
+         {
+           System.out.println("Pallab");
+         }
        
 }
