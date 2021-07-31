@@ -57,6 +57,11 @@ public class CalculateTest {
          {
            System.out.println("My Name");
          }
+	@Test
+         public void pallaviWork()
+         {
+           System.out.println("Pallavi have done a edit");
+         }
        
 
 }
